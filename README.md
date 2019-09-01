@@ -6,9 +6,9 @@ A new Flutter application.
 TabBar + PageView
 
 ## 项目截图
-![](art/image_01.png)
-![](art/image_02.png)
-![](art/image_03.png)
-![](art/image_04.png)
-![](art/image_05.png)
+![](art/image_01.jpg)
+![](art/image_02.jpg)
+![](art/image_03.jpg)
+![](art/image_04.jpg)
+![](art/image_05.jpg)
 
